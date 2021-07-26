@@ -3,7 +3,7 @@ const hoursEl = document.getElementById("hours");
 const minsEl = document.getElementById("mins");
 const secEl = document.getElementById("sec");
 
-const happyBirthDay = "17 july 2021";
+const happyBirthDay = "17 july 2022";
 
 function countdown() {
     const happyBirthDayDate = new Date(happyBirthDay)
